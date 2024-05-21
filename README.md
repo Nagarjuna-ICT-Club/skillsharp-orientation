@@ -1,2 +1,2 @@
 # skillsharp-orientation
-Name: Sarbendrasigdel
+Name: Sarbendra sigdel
